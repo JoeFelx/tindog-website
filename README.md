@@ -1,1 +1,3 @@
 TinDog Starting Files
+
+![Homepage](https://user-images.githubusercontent.com/73597256/100620752-c886c400-3344-11eb-86c6-26ea081ae666.JPG)
